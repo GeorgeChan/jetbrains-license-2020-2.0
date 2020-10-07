@@ -4,7 +4,7 @@ JetBrains IDE trial period restart without keys 2020.2 version support. Products
 ## Contains:
 #### 2020.2 Windows .bat script by Greg Sparrow
 
-#### 2020.2 Windows .cmd script by raynoxfr (IntelliJ path example)
+#### 2020.2 Windows .cmd script by raynoxfr (IntelliJ path example, change for your IDE)
 
 #### 2020.2 Windows manual instructions
 
