@@ -8,6 +8,6 @@ JetBrains IDE trial period restart without keys 2020.2 version support. Products
 
 #### 2020.2 Windows manual instructions
 
-#### 2020.1 MacOS legendary script by pengzhile
+#### 2020.1 MacOS and Windows legendary scripts by pengzhile
 
 ## Good luck! <3
